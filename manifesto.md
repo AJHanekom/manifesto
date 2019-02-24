@@ -1,3 +1,5 @@
+From https://fireship.io/mission/
+
 Manifesto
 
 1. Developer Happiness and Productivity
